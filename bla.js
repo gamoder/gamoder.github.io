@@ -1,1 +1,5 @@
-alert('bla');
+window.onLoad(function () {
+    alert('bla');
+
+});
+
