@@ -1,4 +1,4 @@
-window.onLoad(function () {
+window.onload(function () {
     alert('bla');
 
 });
